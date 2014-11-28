@@ -43,7 +43,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-ruby '2.1.5'
+ruby '1.9.3'
 gem 'rails_12factor', group: :production
 gem 'spree', '2.4.1'
 #gem 'spree', github: 'spree/spree', branch: '2-4-stable'
